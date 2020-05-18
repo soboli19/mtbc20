@@ -1,2 +1,2 @@
-# mtbc20
+# Dev Boot Camp
 Microtrain bootcamp directory
